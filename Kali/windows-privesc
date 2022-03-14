@@ -1,0 +1,2 @@
+#!/bin/sh
+kali-treecd "/usr/share/windows-privesc" "windows-privesc" 1 false
