@@ -9,7 +9,7 @@
 ## Installs
 
     sudo apt-get update && sudo apt-get upgrade
-    sudo apt-get install seclists libguestfs-tools gedit mingw-w64 python3-pip gobuster golang node.js npm conky
+    sudo apt-get install seclists libguestfs-tools gedit mingw-w64 python3-pip gobuster golang node.js npm conky python3-aiohttp
     
     #For ALFA wireless NIC
     #sudo apt-get install realtek-rtl88xxau-dkms
